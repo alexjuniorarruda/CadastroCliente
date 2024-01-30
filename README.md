@@ -20,7 +20,9 @@ O objetivo desse projeto é demonstrar alguns conhecimentos na criação de apli
 - Banco de Dados: MySQL
 
 # Como executar o projeto
-Para executar esse projeto você vai precisar do Visual Studio intalado em sua máquina, e também será necessário o .Net Framework 4.8.
+Pré-requisitos: Visual Studio 2015, .Net Framework, Crystal Reports para Visual Studio 2015.
+
+Para executar esse projeto você tem que fazer o download do mesmo e executar a solution CadastroCliente.sln com o Visual Studio.
 
 # Autor
 
